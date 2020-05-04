@@ -1,0 +1,1565 @@
+﻿Log file open, 04/30/20 09:01:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Flocking
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.055311
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=alexmhunt -epicuserid=e8bd4c1d77bb455f812d66a3686442d1 -epiclocale=en
+LogInit: Base Directory: E:/UE4/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Engine.ini]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Engine.ini]
+[2020.04.30-13.01.01:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Engine.ini]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Engine.ini]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.30-13.01.01:636][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Engine.ini]
+[2020.04.30-13.01.01:636][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Engine.ini]
+[2020.04.30-13.01.01:640][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-13.01.01:640][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.30-13.01.01:641][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.30-13.01.01:641][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-13.01.01:641][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.30-13.01.01:643][  0]LogHAL: Display: Platform has ~ 16 GB [17137213440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.30-13.01.01:643][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.30-13.01.01:643][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.30-13.01.01:643][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Scalability.ini]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.30-13.01.01:644][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/Flocking/Saved/Config/Windows/Engine.ini]
+[2020.04.30-13.01.01:644][  0]LogInit: Computer: DESKTOP-4UTISHD
+[2020.04.30-13.01.01:645][  0]LogInit: User: Alex
+[2020.04.30-13.01.01:645][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.30-13.01.01:645][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.30-13.01.01:645][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.30-13.01.01:645][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.30-13.01.01:645][  0]LogMemory: Process Physical Memory: 104.55 MB used, 104.56 MB peak
+[2020.04.30-13.01.01:645][  0]LogMemory: Process Virtual Memory: 100.57 MB used, 100.57 MB peak
+[2020.04.30-13.01.01:645][  0]LogMemory: Physical Memory: 8945.73 MB used,  7397.59 MB free, 16343.32 MB total
+[2020.04.30-13.01.01:645][  0]LogMemory: Virtual Memory: 5137.66 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.30-13.01.01:648][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.30-13.01.01:660][  0]LogInit: Using OS detected language (en-US).
+[2020.04.30-13.01.01:660][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.30-13.01.01:660][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.30-13.01.01:806][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.30-13.01.01:959][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.30-13.01.01:959][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.30-13.01.02:057][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-13.01.02:057][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.30-13.01.02:057][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.30-13.01.02:057][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.30-13.01.02:132][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.04.30-13.01.02:132][  0]LogD3D11RHI:       8079/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.30-13.01.02:136][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.30-13.01.02:136][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.30-13.01.02:136][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.30-13.01.02:147][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.30-13.01.02:147][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.30-13.01.02:147][  0]LogWindows: EnumDisplayDevices:
+[2020.04.30-13.01.02:147][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.04.30-13.01.02:148][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.04.30-13.01.02:148][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.04.30-13.01.02:148][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.04.30-13.01.02:148][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.30-13.01.02:148][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.04.30-13.01.02:149][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.30-13.01.02:149][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.30-13.01.02:149][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.04.30-13.01.02:193][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.30-13.01.02:193][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.30-13.01.02:219][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.30-13.01.02:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.30-13.01.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.30-13.01.02:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.30-13.01.02:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.30-13.01.02:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.30-13.01.02:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.30-13.01.02:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.30-13.01.02:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.30-13.01.02:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.30-13.01.02:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.30-13.01.02:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.30-13.01.02:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.30-13.01.02:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.30-13.01.02:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.30-13.01.02:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.30-13.01.02:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.30-13.01.02:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.30-13.01.02:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.30-13.01.02:614][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.30-13.01.02:616][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.30-13.01.02:628][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../Unreal Projects/Flocking/Intermediate/Shaders/WorkingDirectory/11884/).
+[2020.04.30-13.01.02:628][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alex/AppData/Local/Temp/UnrealShaderWorkingDir/7CEC10A544C4A299DB371AA249A54B8E/'.
+[2020.04.30-13.01.02:628][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.30-13.01.02:628][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.30-13.01.02:628][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.30-13.01.03:243][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.30-13.01.03:291][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Alex/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.30-13.01.03:291][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alex/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.30-13.01.03:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/Flocking/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.30-13.01.03:291][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.30-13.01.03:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/Flocking/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-13.01.03:291][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.30-13.01.03:299][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.30-13.01.03:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.30-13.01.03:299][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.30-13.01.03:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.30-13.01.03:300][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.30-13.01.03:300][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.30-13.01.03:321][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.30-13.01.03:323][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.30-13.01.03:323][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.30-13.01.03:361][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.04.30-13.01.03:575][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.30-13.01.03:688][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.30-13.01.03:688][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.30-13.01.03:688][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.30-13.01.03:688][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.30-13.01.03:688][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.30-13.01.03:698][  0]LogNetVersion: Flocking 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1320047615)
+[2020.04.30-13.01.04:763][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.230429 seconds
+[2020.04.30-13.01.04:770][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.30-13.01.04:770][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.30-13.01.04:770][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.30-13.01.05:620][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.30-13.01.06:148][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.30-13.01.06:214][  0]SourceControl: Source control is disabled
+[2020.04.30-13.01.06:214][  0]SourceControl: Source control is disabled
+[2020.04.30-13.01.06:215][  0]SourceControl: Source control is disabled
+[2020.04.30-13.01.06:215][  0]SourceControl: Source control is disabled
+[2020.04.30-13.01.06:215][  0]SourceControl: Source control is disabled
+[2020.04.30-13.01.06:413][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.30-13.01.06:421][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.30-13.01.06:421][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.30-13.01.06:495][  0]LogOcInput: OculusInput pre-init called
+[2020.04.30-13.01.06:500][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.30-13.01.06:500][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.30-13.01.06:629][  0]LogEngine: Initializing Engine...
+[2020.04.30-13.01.06:630][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.30-13.01.06:630][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.30-13.01.06:912][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.30-13.01.06:918][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.30-13.01.06:934][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-13.01.06:934][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-13.01.06:934][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-13.01.06:935][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-13.01.06:935][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-13.01.06:935][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-13.01.06:935][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-13.01.06:935][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-13.01.06:935][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-13.01.06:935][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: Name: Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-13.01.06:959][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-13.01.06:971][  0]LogAudioMixer: Display: Using Audio Device Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-13.01.06:976][  0]LogInit: FAudioDevice initialized.
+[2020.04.30-13.01.06:976][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.30-13.01.07:073][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Alex/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.30-13.01.07:078][  0]LogInit: Texture streaming: Enabled
+[2020.04.30-13.01.07:086][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.30-13.01.07:086][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.30-13.01.07:090][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.30-13.01.07:107][  0]LogInit: Transaction tracking system initialized
+[2020.04.30-13.01.07:116][  0]BlueprintLog: New page: Editor Load
+[2020.04.30-13.01.07:182][  0]LocalizationService: Localization service is disabled
+[2020.04.30-13.01.07:698][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Flocking/Content/' took 0.00s
+[2020.04.30-13.01.07:698][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.30-13.01.07:698][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.30-13.01.08:221][  0]SourceControl: Source control is disabled
+[2020.04.30-13.01.08:221][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.30-13.01.08:221][  0]LightingResults: New page: Lighting Build
+[2020.04.30-13.01.08:221][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-13.01.08:221][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-13.01.08:222][  0]MapCheck: New page: Map Check
+[2020.04.30-13.01.08:222][  0]LightingResults: New page: Lighting Build
+[2020.04.30-13.01.08:242][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.04.30-13.01.08:302][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.30-13.01.08:305][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.30-13.01.08:325][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.04.30-13.01.08:325][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.30-13.01.08:325][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2020.04.30-13.01.08:325][  0]LogFileHelpers: Loading map 'Template_Default' took 0.105
+[2020.04.30-13.01.12:485][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-13.01.12:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-13.01.12:598][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-13.01.12:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-13.01.13:119][  0]LogCollectionManager: Loaded 0 collections in 0.000590 seconds
+[2020.04.30-13.01.13:661][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Flocking/Saved/Collections/' took 0.00s
+[2020.04.30-13.01.13:661][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Flocking/Content/Developers/Alex/Collections/' took 0.00s
+[2020.04.30-13.01.13:661][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Flocking/Content/Collections/' took 0.00s
+[2020.04.30-13.01.13:661][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 3016 classes and 719 folders.
+[2020.04.30-13.01.14:356][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.30-13.01.14:389][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.30-13.01.14:982][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.30-13.01.19:091][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.30-13.01.19:099][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.30-13.01.19:402][  0]LogSlate: Took 0.148494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.30-13.01.21:063][  0]LogRenderer: Reallocating scene render targets to support 1004x628 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-13.01.23:340][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.30-13.01.23:340][  0]LogLoad: (Engine Initialization) Total time: 22.67 seconds
+[2020.04.30-13.01.23:340][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.30-13.01.23:883][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.30-13.01.39:018][607]LogAssetRegistry: Asset discovery search completed in 35.6571 seconds
+[2020.04.30-13.01.39:022][607]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.04.30-13.44.31:334][246]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.04.30-15.56.13:231][672]LogSlate: Took 0.021888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-15.56.13:246][672]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Flocking.FlockingGameModeBase
+[2020.04.30-15.57.20:989][295]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.04.30-15.57.20:993][295]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.04.30-15.57.21:060][295]LogSlate: Took 0.010925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.30-15.57.31:804][949]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.30-15.57.38:556][385]Candidate modules for hot reload:
+[2020.04.30-15.57.38:556][385]  Flocking
+[2020.04.30-15.57.38:556][385]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,2314 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-15.59.13:742][385]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.30-15.59.58:066][385]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 7:59:58 AM
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Creating makefile for FlockingEditor (.uproject file is newer)
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Parsing headers for FlockingEditor
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Flocking\Flocking.uproject" "E:\Unreal Projects\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Reflection code generated for FlockingEditor in 16.6731118 seconds
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Building 9 actions with 8 processes...
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [1/9] Flocking.init.gen.cpp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [2/9] FlockingManager.cpp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [3/9] FlockingGameModeBase.cpp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [4/9] Flocking.cpp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [5/9] FlockingGameModeBase.gen.cpp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [6/9] FlockingManager.gen.cpp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [7/9] UE4Editor-Flocking-2314.lib
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-2314.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-2314.exp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:   [8/9] UE4Editor-Flocking-2314.dll
+[2020.04.30-15.59.58:072][385]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-2314.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-2314.suppressed.exp
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Error:   FlockingGameModeBase.cpp.obj : error LNK2019: unresolved external symbol "private: __cdecl AFlockingGameModeBase::AFlockingGameModeBase(void)" (??0AFlockingGameModeBase@@AEAA@XZ) referenced in function "public: static void __cdecl AFlockingGameModeBase::__DefaultConstructor(class FObjectInitializer const &)" (?__DefaultConstructor@AFlockingGameModeBase@@SAXAEBVFObjectInitializer@@@Z)
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Error:   FlockingGameModeBase.gen.cpp.obj : error LNK2001: unresolved external symbol "private: __cdecl AFlockingGameModeBase::AFlockingGameModeBase(void)" (??0AFlockingGameModeBase@@AEAA@XZ)
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Error:   FlockingGameModeBase.gen.cpp.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl AFlockingGameModeBase::BeginPlay(void)" (?BeginPlay@AFlockingGameModeBase@@EEAAXXZ)
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Error:   FlockingGameModeBase.gen.cpp.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl AFlockingGameModeBase::Tick(float)" (?Tick@AFlockingGameModeBase@@EEAAXM@Z)
+[2020.04.30-15.59.58:072][385]CompilerResultsLog: Error:   E:\Unreal Projects\Flocking\Binaries\Win64\UE4Editor-Flocking-2314.dll : fatal error LNK1120: 3 unresolved externals
+[2020.04.30-15.59.58:073][385]LogMainFrame: MainFrame: Module compiling took 139.578 seconds
+[2020.04.30-15.59.58:096][385]Warning: HotReload failed, recompile failed
+[2020.04.30-15.59.58:121][385]Warning: RebindPackages failed because compilation failed.
+[2020.04.30-16.11.15:614][385]LogSlate: Window 'Message' being destroyed
+[2020.04.30-16.11.15:620][385]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.04.30-16.11.15:703][385]LogHotReload: New module detected: UE4Editor-Flocking-2314.dll
+[2020.04.30-16.11.31:375][696]Candidate modules for hot reload:
+[2020.04.30-16.11.31:375][696]  Flocking
+[2020.04.30-16.11.31:375][696]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,8937 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-16.11.31:377][696]Warning: Starting HotReload took  0.0s.
+[2020.04.30-16.11.41:001][841]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 8:11:41 AM
+[2020.04.30-16.11.41:001][841]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-16.11.41:001][841]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-16.11.41:001][841]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-16.11.41:001][841]CompilerResultsLog:   [1/4] FlockingGameModeBase.cpp
+[2020.04.30-16.11.41:001][841]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(8) : error C2065: 'AgentMesh': undeclared identifier
+[2020.04.30-16.11.41:001][841]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(16) : error C2039: 'Init': is not a member of 'UFlockingManager'
+[2020.04.30-16.11.41:001][841]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(13): note: see declaration of 'UFlockingManager'
+[2020.04.30-16.11.41:001][841]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(16) : error C2065: 'AgentMesh': undeclared identifier
+[2020.04.30-16.11.41:001][841]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(21) : error C2039: 'Flock': is not a member of 'UFlockingManager'
+[2020.04.30-16.11.41:001][841]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(13): note: see declaration of 'UFlockingManager'
+[2020.04.30-16.11.41:001][841]LogMainFrame: MainFrame: Module compiling took 9.649 seconds
+[2020.04.30-16.11.41:001][841]Warning: HotReload failed, recompile failed
+[2020.04.30-16.30.59:824][367]LogSlate: Took 0.017557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.04.30-16.31.26:412][617]Candidate modules for hot reload:
+[2020.04.30-16.31.26:412][617]  Flocking
+[2020.04.30-16.31.26:412][617]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,6621 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-16.31.26:415][617]Warning: Starting HotReload took  0.0s.
+[2020.04.30-16.31.28:314][685]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 8:31:28 AM
+[2020.04.30-16.31.28:314][685]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-16.31.28:314][685]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-16.31.28:314][685]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-16.31.28:314][685]CompilerResultsLog:   [1/4] FlockingGameModeBase.cpp
+[2020.04.30-16.31.28:314][685]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(16) : error C2039: 'Init': is not a member of 'UFlockingManager'
+[2020.04.30-16.31.28:314][685]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(13): note: see declaration of 'UFlockingManager'
+[2020.04.30-16.31.28:314][685]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(16) : error C2065: 'AgentMesh': undeclared identifier
+[2020.04.30-16.31.28:314][685]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(21) : error C2039: 'Flock': is not a member of 'UFlockingManager'
+[2020.04.30-16.31.28:314][685]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(13): note: see declaration of 'UFlockingManager'
+[2020.04.30-16.31.28:314][685]LogMainFrame: MainFrame: Module compiling took 1.916 seconds
+[2020.04.30-16.31.28:314][685]Warning: HotReload failed, recompile failed
+[2020.04.30-16.32.17:032][228]Candidate modules for hot reload:
+[2020.04.30-16.32.17:032][228]  Flocking
+[2020.04.30-16.32.17:033][228]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,632 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-16.32.17:036][228]Warning: Starting HotReload took  0.0s.
+[2020.04.30-16.32.33:835][550]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 8:32:33 AM
+[2020.04.30-16.32.33:836][550]CompilerResultsLog: Parsing headers for FlockingEditor
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Flocking\Flocking.uproject" "E:\Unreal Projects\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.04.30-16.32.33:836][550]CompilerResultsLog: Reflection code generated for FlockingEditor in 5.8365546 seconds
+[2020.04.30-16.32.33:836][550]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-16.32.33:836][550]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-16.32.33:836][550]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:   [1/6] FlockingGameModeBase.cpp
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(16) : error C2065: 'AgentMesh': undeclared identifier
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(21) : error C2248: 'UFlockingManager::Flock': cannot access private member declared in class 'UFlockingManager'
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(17): note: see declaration of 'UFlockingManager::Flock'
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(13): note: see declaration of 'UFlockingManager'
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:   [2/6] FlockingManager.cpp
+[2020.04.30-16.32.33:836][550]CompilerResultsLog:   [3/6] FlockingManager.gen.cpp
+[2020.04.30-16.32.33:836][550]LogMainFrame: MainFrame: Module compiling took 16.815 seconds
+[2020.04.30-16.32.33:836][550]Warning: HotReload failed, recompile failed
+[2020.04.30-16.32.57:577][153]Candidate modules for hot reload:
+[2020.04.30-16.32.57:577][153]  Flocking
+[2020.04.30-16.32.57:577][153]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,4578 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-16.32.57:580][153]Warning: Starting HotReload took  0.0s.
+[2020.04.30-16.32.59:195][232]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 8:32:59 AM
+[2020.04.30-16.32.59:195][232]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-16.32.59:195][232]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-16.32.59:195][232]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-16.32.59:195][232]CompilerResultsLog:   [1/4] FlockingGameModeBase.cpp
+[2020.04.30-16.32.59:196][232]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(16) : error C2248: 'UFlockingManager::Init': cannot access private member declared in class 'UFlockingManager'
+[2020.04.30-16.32.59:196][232]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(16): note: see declaration of 'UFlockingManager::Init'
+[2020.04.30-16.32.59:196][232]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(13): note: see declaration of 'UFlockingManager'
+[2020.04.30-16.32.59:196][232]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingGameModeBase.cpp(21) : error C2248: 'UFlockingManager::Flock': cannot access private member declared in class 'UFlockingManager'
+[2020.04.30-16.32.59:196][232]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(17): note: see declaration of 'UFlockingManager::Flock'
+[2020.04.30-16.32.59:196][232]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(13): note: see declaration of 'UFlockingManager'
+[2020.04.30-16.32.59:196][232]LogMainFrame: MainFrame: Module compiling took 1.648 seconds
+[2020.04.30-16.32.59:196][232]Warning: HotReload failed, recompile failed
+[2020.04.30-16.33.35:587][753]Candidate modules for hot reload:
+[2020.04.30-16.33.35:587][753]  Flocking
+[2020.04.30-16.33.35:587][753]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,5031 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-16.33.35:590][753]Warning: Starting HotReload took  0.0s.
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 8:33:46 AM
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: Parsing headers for FlockingEditor
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Flocking\Flocking.uproject" "E:\Unreal Projects\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: Reflection code generated for FlockingEditor in 5.6342124 seconds
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:   [1/6] FlockingManager.cpp
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:   [2/6] FlockingManager.gen.cpp
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:   [3/6] FlockingGameModeBase.cpp
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:   [4/6] UE4Editor-Flocking-5031.lib
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5031.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5031.exp
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:   [5/6] UE4Editor-Flocking-5031.dll
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5031.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5031.suppressed.exp
+[2020.04.30-16.33.46:730][831]CompilerResultsLog:   [6/6] FlockingEditor.target
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: Total time in Parallel executor: 4.01 seconds
+[2020.04.30-16.33.46:730][831]CompilerResultsLog: Total execution time: 10.74 seconds
+[2020.04.30-16.33.46:730][831]LogMainFrame: MainFrame: Module compiling took 11.166 seconds
+[2020.04.30-16.33.47:365][831]LogUObjectHash: Compacting FUObjectHashTables data took  17.07ms
+[2020.04.30-16.33.47:433][831]LogClass: Could not find existing class FlockingGameModeBase in package /Script/Flocking for HotReload, assuming new class
+[2020.04.30-16.33.47:433][831]LogClass: Could not find existing class FlockingManager in package /Script/Flocking for HotReload, assuming new class
+[2020.04.30-16.33.47:504][831]LogHotReload: Re-instancing FlockingGameModeBase after hot-reload.
+[2020.04.30-16.33.48:275][831]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2020.04.30-16.33.48:279][831]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-16.33.48:298][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.04.30-16.33.48:334][831]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 3019 classes and 722 folders.
+[2020.04.30-16.33.48:408][831]Display: HotReload took 12.8s.
+[2020.04.30-17.19.58:550][881]Candidate modules for hot reload:
+[2020.04.30-17.19.58:550][881]  Flocking
+[2020.04.30-17.19.58:550][881]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,8556 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-17.19.58:553][881]Warning: Starting HotReload took  0.0s.
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 9:20:00 AM
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog:   [1/3] UE4Editor-Flocking-8556.lib
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8556.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8556.exp
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog:   [2/3] UE4Editor-Flocking-8556.dll
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8556.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8556.suppressed.exp
+[2020.04.30-17.20.00:662][ 14]CompilerResultsLog:   [3/3] FlockingEditor.target
+[2020.04.30-17.20.00:663][ 14]CompilerResultsLog: Total time in Parallel executor: 1.06 seconds
+[2020.04.30-17.20.00:663][ 14]CompilerResultsLog: Total execution time: 2.03 seconds
+[2020.04.30-17.20.00:663][ 14]LogMainFrame: MainFrame: Module compiling took 2.135 seconds
+[2020.04.30-17.20.00:684][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.04.30-17.20.01:083][ 14]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2020.04.30-17.20.01:085][ 14]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-17.20.01:335][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.30-17.20.01:345][ 14]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 3019 classes and 722 folders.
+[2020.04.30-17.20.01:345][ 14]Display: HotReload took  2.8s.
+[2020.04.30-17.20.44:172][420]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.04.30-17.20.44:172][420]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.04.30-17.20.47:454][588]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.30-17.20.51:308][848]Candidate modules for hot reload:
+[2020.04.30-17.20.51:308][848]  Flocking
+[2020.04.30-17.20.51:308][848]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,6921 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 9:21:05 AM
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Creating makefile for FlockingEditor (.uproject file is newer)
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Parsing headers for FlockingEditor
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Flocking\Flocking.uproject" "E:\Unreal Projects\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Reflection code generated for FlockingEditor in 6.7257629 seconds
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Building 11 actions with 8 processes...
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [1/11] FlockingGameModeBase.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [2/11] Flocking.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [3/11] FlockingManager.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [4/11] Flocking.init.gen.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [5/11] FlockingGameModeBase.gen.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [6/11] FlockingManager.gen.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [7/11] Agent.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [8/11] Agent.gen.cpp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [9/11] UE4Editor-Flocking-6921.lib
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6921.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6921.exp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [10/11] UE4Editor-Flocking-6921.dll
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6921.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6921.suppressed.exp
+[2020.04.30-17.21.05:259][848]CompilerResultsLog:   [11/11] FlockingEditor.target
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Total time in Parallel executor: 5.51 seconds
+[2020.04.30-17.21.05:259][848]CompilerResultsLog: Total execution time: 13.88 seconds
+[2020.04.30-17.21.05:259][848]LogMainFrame: MainFrame: Module compiling took 13.957 seconds
+[2020.04.30-17.21.05:279][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.04.30-17.21.05:292][848]LogClass: Could not find existing class Agent in package /Script/Flocking for HotReload, assuming new class
+[2020.04.30-17.21.05:300][848]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.04.30-17.21.05:302][848]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-17.21.05:371][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.04.30-17.21.05:385][848]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-17.21.05:385][848]Display: HotReload took 14.1s.
+[2020.04.30-17.21.05:385][848]Warning: HotReload operation took 14.1s.
+[2020.04.30-17.21.05:535][848]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.04.30-17.21.05:545][848]LogHotReload: New module detected: UE4Editor-Flocking-6921.dll
+[2020.04.30-17.21.05:609][849]LogHotReload: Starting Hot-Reload from IDE
+[2020.04.30-17.21.05:697][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.30-17.21.05:701][849]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.04.30-17.21.05:706][849]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-17.21.05:735][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.04.30-17.21.05:754][849]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-17.21.05:759][849]Display: HotReload took  0.1s.
+[2020.04.30-17.21.05:892][849]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.30-17.22.35:324][125]Candidate modules for hot reload:
+[2020.04.30-17.22.35:324][125]  Flocking
+[2020.04.30-17.22.35:324][125]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,1150 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-17.22.35:327][125]Warning: Starting HotReload took  0.0s.
+[2020.04.30-17.22.45:146][304]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 9:22:45 AM
+[2020.04.30-17.22.45:146][304]CompilerResultsLog: Parsing headers for FlockingEditor
+[2020.04.30-17.22.45:146][304]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Flocking\Flocking.uproject" "E:\Unreal Projects\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.04.30-17.22.45:146][304]CompilerResultsLog: Reflection code generated for FlockingEditor in 5.6213742 seconds
+[2020.04.30-17.22.45:146][304]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-17.22.45:146][304]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-17.22.45:146][304]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.04.30-17.22.45:146][304]CompilerResultsLog:   [1/6] FlockingManager.cpp
+[2020.04.30-17.22.45:146][304]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(21) : error C2027: use of undefined type 'AAgent'
+[2020.04.30-17.22.45:146][304]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(23): note: see declaration of 'AAgent'
+[2020.04.30-17.22.45:146][304]CompilerResultsLog:   [2/6] Agent.cpp
+[2020.04.30-17.22.45:146][304]CompilerResultsLog:   [3/6] Agent.gen.cpp
+[2020.04.30-17.22.45:146][304]LogMainFrame: MainFrame: Module compiling took 9.845 seconds
+[2020.04.30-17.22.45:146][304]Warning: HotReload failed, recompile failed
+[2020.04.30-17.23.05:431][826]Candidate modules for hot reload:
+[2020.04.30-17.23.05:431][826]  Flocking
+[2020.04.30-17.23.05:431][826]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,3680 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-17.23.05:434][826]Warning: Starting HotReload took  0.0s.
+[2020.04.30-17.23.07:431][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.30-17.23.11:193][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.30-17.23.13:082][941]Cmd: DELETE
+[2020.04.30-17.23.13:082][941]Cmd: ACTOR DELETE
+[2020.04.30-17.23.14:209][941]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.30-17.23.14:562][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.04.30-17.23.14:563][941]LogEditorActor: Deleted 1 Actors (0.660 secs)
+[2020.04.30-17.23.20:007][ 14]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 9:23:20 AM
+[2020.04.30-17.23.20:007][ 14]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-17.23.20:008][ 14]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-17.23.20:008][ 14]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-17.23.20:008][ 14]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-17.23.20:009][ 14]CompilerResultsLog:   [2/4] UE4Editor-Flocking-3680.lib
+[2020.04.30-17.23.20:010][ 14]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3680.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3680.exp
+[2020.04.30-17.23.20:010][ 14]CompilerResultsLog:   [3/4] UE4Editor-Flocking-3680.dll
+[2020.04.30-17.23.20:011][ 14]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3680.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3680.suppressed.exp
+[2020.04.30-17.23.20:011][ 14]CompilerResultsLog:   [4/4] FlockingEditor.target
+[2020.04.30-17.23.20:011][ 14]CompilerResultsLog: Total time in Parallel executor: 13.48 seconds
+[2020.04.30-17.23.20:011][ 14]CompilerResultsLog: Total execution time: 14.36 seconds
+[2020.04.30-17.23.20:011][ 14]LogMainFrame: MainFrame: Module compiling took 14.610 seconds
+[2020.04.30-17.23.20:050][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.04.30-17.23.20:066][ 14]LogClass: Could not find existing class Agent in package /Script/Flocking for HotReload, assuming new class
+[2020.04.30-17.23.20:071][ 14]LogHotReload: Re-instancing Agent after hot-reload.
+[2020.04.30-17.23.20:141][ 14]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.04.30-17.23.20:144][ 14]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-17.23.20:194][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.04.30-17.23.20:204][ 14]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-17.23.20:204][ 14]Display: HotReload took 14.8s.
+[2020.04.30-17.23.24:325][107]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-17.23.24:409][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-17.23.24:423][107]PIE: New page: PIE session: Untitled_1 (Apr 30, 2020, 9:23:24 AM)
+[2020.04.30-17.23.24:535][107]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.30-17.23.24:536][107]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.30-17.23.24:555][107]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.30-17.23.24:566][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010441s)
+[2020.04.30-17.23.24:578][107]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.30-17.23.24:589][107]LogPlayLevel: PIE: World Init took: (0.022623s)
+[2020.04.30-17.23.24:589][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.033687s)
+[2020.04.30-17.23.24:609][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-17.23.24:627][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-17.23.24:627][107]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-17.23.24:627][107]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: Name: Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: Channel Order:
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-17.23.24:644][107]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-17.23.24:651][107]LogAudioMixer: Display: Using Audio Device Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-17.23.24:667][107]LogInit: FAudioDevice initialized.
+[2020.04.30-17.23.24:751][107]LogLoad: Game class is 'GameModeBase'
+[2020.04.30-17.23.24:822][107]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.30-13.23.24
+[2020.04.30-17.23.24:848][107]LogWorld: Bringing up level for play took: 0.026113
+[2020.04.30-17.23.24:849][107]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.04.30-17.23.25:046][107]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.30-17.23.25:091][107]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.397
+[2020.04.30-17.23.27:078][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.27:078][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.27:107][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-17.23.27:107][224]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.30-17.23.27:119][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.27:120][224]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-17.23.27:120][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-17.23.27:144][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-17.23.27:158][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-17.23.27:230][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.27:240][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-17.23.27:285][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.04.30-17.23.27:319][225]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.04.30-17.23.28:443][328]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-17.23.28:452][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-17.23.28:452][328]PIE: New page: PIE session: Untitled_1 (Apr 30, 2020, 9:23:28 AM)
+[2020.04.30-17.23.28:452][328]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.04.30-17.23.28:455][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002497s)
+[2020.04.30-17.23.28:456][328]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.30-17.23.28:456][328]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2020.04.30-17.23.28:456][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003999s)
+[2020.04.30-17.23.28:479][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.04.30-17.23.28:480][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-17.23.28:480][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-17.23.28:480][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-17.23.28:480][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-17.23.28:480][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-17.23.28:480][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-17.23.28:480][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-17.23.28:480][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-17.23.28:481][328]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-17.23.28:481][328]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: Name: Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: Channel Order:
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-17.23.28:504][328]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-17.23.28:510][328]LogAudioMixer: Display: Using Audio Device Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-17.23.28:511][328]LogInit: FAudioDevice initialized.
+[2020.04.30-17.23.28:519][328]LogLoad: Game class is 'GameModeBase'
+[2020.04.30-17.23.28:520][328]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.04.30-13.23.28
+[2020.04.30-17.23.28:520][328]LogWorld: Bringing up level for play took: 0.000345
+[2020.04.30-17.23.28:520][328]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.04.30-17.23.28:522][328]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.172
+[2020.04.30-17.23.30:651][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.30:651][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.30:651][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-17.23.30:651][506]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.04.30-17.23.30:651][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.30:652][506]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-17.23.30:652][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-17.23.30:675][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-17.23.30:678][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-17.23.30:695][506]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-17.23.30:697][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-17.23.30:699][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.04.30-17.23.30:750][512]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.30-17.23.47:507][913]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Flocking.FlockingGameModeBase
+[2020.04.30-17.23.52:481][ 89]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Flocking.Agent
+[2020.04.30-17.24.06:732][370]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Flocking.FlockingGameModeBase
+[2020.04.30-17.24.21:146][968]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.04.30-17.24.21:146][968]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.30-17.24.26:732][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyFlockingGameModeBaseBP.MyFlockingGameModeBaseBP
+[2020.04.30-17.24.27:374][341]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.04.30-17.24.29:008][341]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.04.30-17.24.29:022][341]LogActor: Warning: MyFlockingGameModeBaseBP_C /Engine/Transient.World_2:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-17.24.29:286][341]LogRenderer: Reallocating scene render targets to support 1144x720 Format 10 NumSamples 1 (Frame:1).
+[2020.04.30-17.24.32:515][439]LogRenderer: Reallocating scene render targets to support 1220x776 Format 10 NumSamples 1 (Frame:97).
+[2020.04.30-17.25.34:597][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.04.30-17.25.34:648][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Unreal Projects/Flocking/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.30-17.25.34:784][668]LogSavePackage: Moving '../../../../../../Unreal Projects/Flocking/Saved/Untitled_1_Auto1404FF9EB4096EC42B726B7B5E6485239.tmp' to '../../../../../../Unreal Projects/Flocking/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.04.30-17.25.34:815][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.311
+[2020.04.30-17.25.34:815][668]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.311
+[2020.04.30-17.25.34:815][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyFlockingGameModeBaseBP] ([1] browsable assets)...
+[2020.04.30-17.25.34:815][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyFlockingGameModeBaseBP]
+[2020.04.30-17.25.34:815][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFlockingGameModeBaseBP" FILE="../../../../../../Unreal Projects/Flocking/Saved/Autosaves/Game/MyFlockingGameModeBaseBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.30-17.25.34:908][668]LogSavePackage: Moving '../../../../../../Unreal Projects/Flocking/Saved/MyFlockingGameModeBaseBP_Auto13B1CE49442F0C3DAE40D4FB25E9CD5C8.tmp' to '../../../../../../Unreal Projects/Flocking/Saved/Autosaves/Game/MyFlockingGameModeBaseBP_Auto1.uasset'
+[2020.04.30-17.25.34:908][668]LogFileHelpers: Auto-saving content packages took 0.093
+[2020.04.30-17.57.44:454][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFlockingGameModeBaseBP" FILE="../../../../../../Unreal Projects/Flocking/Content/MyFlockingGameModeBaseBP.uasset" SILENT=true
+[2020.04.30-17.57.44:465][609]LogSavePackage: Moving '../../../../../../Unreal Projects/Flocking/Saved/MyFlockingGameModeBaseBP731BE3F8450DFC25EF978DA8FD5CA1EA.tmp' to '../../../../../../Unreal Projects/Flocking/Content/MyFlockingGameModeBaseBP.uasset'
+[2020.04.30-17.57.44:503][609]AssetCheck: New page: Asset Save: MyFlockingGameModeBaseBP
+[2020.04.30-17.57.44:503][609]LogContentValidation: Display: Validating Blueprint /Game/MyFlockingGameModeBaseBP.MyFlockingGameModeBaseBP
+[2020.04.30-17.58.42:450][654]LogSlate: Window 'MyFlockingGameModeBaseBP' being destroyed
+[2020.04.30-17.58.42:474][654]LogSlate: Window 'MyFlockingGameModeBaseBP' being destroyed
+[2020.04.30-17.58.42:487][654]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-17.58.42:487][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-17.58.43:303][716]Candidate modules for hot reload:
+[2020.04.30-17.58.43:303][716]  Flocking
+[2020.04.30-17.58.43:303][716]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,7215 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-17.58.43:305][716]Warning: Starting HotReload took  0.0s.
+[2020.04.30-17.58.45:229][844]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 9:58:45 AM
+[2020.04.30-17.58.45:229][844]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-17.58.45:229][844]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-17.58.45:229][844]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.04.30-17.58.45:230][844]CompilerResultsLog:   [1/3] UE4Editor-Flocking-7215.lib
+[2020.04.30-17.58.45:230][844]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-7215.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-7215.exp
+[2020.04.30-17.58.45:230][844]CompilerResultsLog:   [2/3] UE4Editor-Flocking-7215.dll
+[2020.04.30-17.58.45:230][844]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-7215.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-7215.suppressed.exp
+[2020.04.30-17.58.45:230][844]CompilerResultsLog:   [3/3] FlockingEditor.target
+[2020.04.30-17.58.45:230][844]CompilerResultsLog: Total time in Parallel executor: 1.06 seconds
+[2020.04.30-17.58.45:230][844]CompilerResultsLog: Total execution time: 1.85 seconds
+[2020.04.30-17.58.45:230][844]LogMainFrame: MainFrame: Module compiling took 1.949 seconds
+[2020.04.30-17.58.45:275][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.04.30-17.58.45:298][844]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.04.30-17.58.45:301][844]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-17.58.45:371][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.04.30-17.58.45:383][844]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-17.58.45:383][844]Display: HotReload took  2.1s.
+[2020.04.30-18.01.19:618][648]Candidate modules for hot reload:
+[2020.04.30-18.01.19:618][648]  Flocking
+[2020.04.30-18.01.19:618][648]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,6104 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-18.01.19:620][648]Warning: Starting HotReload took  0.0s.
+[2020.04.30-18.01.21:647][745]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 10:01:21 AM
+[2020.04.30-18.01.21:647][745]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-18.01.21:647][745]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-18.01.21:647][745]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.04.30-18.01.21:648][745]CompilerResultsLog:   [1/3] UE4Editor-Flocking-6104.lib
+[2020.04.30-18.01.21:648][745]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6104.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6104.exp
+[2020.04.30-18.01.21:648][745]CompilerResultsLog:   [2/3] UE4Editor-Flocking-6104.dll
+[2020.04.30-18.01.21:648][745]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6104.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6104.suppressed.exp
+[2020.04.30-18.01.21:648][745]CompilerResultsLog:   [3/3] FlockingEditor.target
+[2020.04.30-18.01.21:648][745]CompilerResultsLog: Total time in Parallel executor: 1.12 seconds
+[2020.04.30-18.01.21:648][745]CompilerResultsLog: Total execution time: 1.94 seconds
+[2020.04.30-18.01.21:648][745]LogMainFrame: MainFrame: Module compiling took 2.033 seconds
+[2020.04.30-18.01.21:715][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.30-18.01.21:738][745]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.04.30-18.01.21:742][745]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-18.01.21:913][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.04.30-18.01.21:928][745]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-18.01.21:928][745]Display: HotReload took  2.3s.
+[2020.04.30-18.01.22:837][781]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyFlockingGameModeBaseBP.MyFlockingGameModeBaseBP
+[2020.04.30-18.01.23:256][781]LogActor: Warning: MyFlockingGameModeBaseBP_C /Engine/Transient.World_3:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.02.58:221][355]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.30-18.03.03:389][575]LogActor: Warning: MyFlockingGameModeBaseBP_C /Engine/Transient.World_4:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.03.04:469][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyFlockingGameModeBaseBP" FILE="../../../../../../Unreal Projects/Flocking/Content/MyFlockingGameModeBaseBP.uasset" SILENT=true
+[2020.04.30-18.03.04:549][639]LogSavePackage: Moving '../../../../../../Unreal Projects/Flocking/Saved/MyFlockingGameModeBaseBP8208CE414E850850D465A9BB052ECA17.tmp' to '../../../../../../Unreal Projects/Flocking/Content/MyFlockingGameModeBaseBP.uasset'
+[2020.04.30-18.03.04:563][639]AssetCheck: New page: Asset Save: MyFlockingGameModeBaseBP
+[2020.04.30-18.03.04:563][639]LogContentValidation: Display: Validating Blueprint /Game/MyFlockingGameModeBaseBP.MyFlockingGameModeBaseBP
+[2020.04.30-18.03.06:783][785]BlueprintLog: New page: Compile MyFlockingGameModeBaseBP
+[2020.04.30-18.03.06:802][785]LogActor: Warning: MyFlockingGameModeBaseBP_C /Engine/Transient.World_3:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.03.06:802][785]LogActor: Warning: MyFlockingGameModeBaseBP_C /Engine/Transient.World_4:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.03.07:063][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.30-18.03.07:084][785]LogActor: Warning: MyFlockingGameModeBaseBP_C /Engine/Transient.World_4:PersistentLevel.MyFlockingGameModeBaseBP_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.03.08:079][857]LogSlate: Window 'MyFlockingGameModeBaseBP' being destroyed
+[2020.04.30-18.03.08:105][857]LogSlate: Window 'MyFlockingGameModeBaseBP' being destroyed
+[2020.04.30-18.03.08:113][857]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-18.03.08:113][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-18.05.12:213][243]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.30-18.05.15:547][416]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.30-18.05.15:572][416]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.30-18.05.16:583][485]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.30-18.05.19:380][485]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.30-18.05.19:406][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Unreal Projects/Flocking/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.30-18.05.19:479][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.04.30-18.05.19:493][485]LogSavePackage: Moving '../../../../../../Unreal Projects/Flocking/Saved/NewMap85D921AB4A7AA643E402AFA336A3FC31.tmp' to '../../../../../../Unreal Projects/Flocking/Content/NewMap.umap'
+[2020.04.30-18.05.19:512][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Unreal Projects/Flocking/Content/NewMap_BuiltData.uasset" SILENT=true
+[2020.04.30-18.05.19:620][485]LogSavePackage: Moving '../../../../../../Unreal Projects/Flocking/Saved/NewMap_BuiltData8B22FB504F5BB18001FA33B88214681A.tmp' to '../../../../../../Unreal Projects/Flocking/Content/NewMap_BuiltData.uasset'
+[2020.04.30-18.05.19:626][485]LogFileHelpers: Saving map 'NewMap' took 0.240
+[2020.04.30-18.05.19:636][485]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.30-18.05.19:637][485]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2020.04.30-18.05.19:637][485]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2020.04.30-18.05.22:066][716]Candidate modules for hot reload:
+[2020.04.30-18.05.22:066][716]  Flocking
+[2020.04.30-18.05.22:066][716]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,6297 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-18.05.22:069][716]Warning: Starting HotReload took  0.0s.
+[2020.04.30-18.05.23:945][842]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 10:05:23 AM
+[2020.04.30-18.05.23:945][842]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-18.05.23:945][842]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-18.05.23:945][842]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.04.30-18.05.23:945][842]CompilerResultsLog:   [1/3] UE4Editor-Flocking-6297.lib
+[2020.04.30-18.05.23:945][842]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6297.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6297.exp
+[2020.04.30-18.05.23:945][842]CompilerResultsLog:   [2/3] UE4Editor-Flocking-6297.dll
+[2020.04.30-18.05.23:945][842]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6297.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-6297.suppressed.exp
+[2020.04.30-18.05.23:945][842]CompilerResultsLog:   [3/3] FlockingEditor.target
+[2020.04.30-18.05.23:945][842]CompilerResultsLog: Total time in Parallel executor: 1.02 seconds
+[2020.04.30-18.05.23:945][842]CompilerResultsLog: Total execution time: 1.79 seconds
+[2020.04.30-18.05.23:945][842]LogMainFrame: MainFrame: Module compiling took 1.903 seconds
+[2020.04.30-18.05.23:986][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.30-18.05.24:006][842]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2020.04.30-18.05.24:010][842]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-18.05.24:076][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.04.30-18.05.24:088][842]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-18.05.24:088][842]Display: HotReload took  2.0s.
+[2020.04.30-18.05.29:102][169]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-18.05.29:112][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-18.05.29:112][169]PIE: New page: PIE session: NewMap (Apr 30, 2020, 10:05:29 AM)
+[2020.04.30-18.05.29:112][169]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2020.04.30-18.05.29:114][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001398s)
+[2020.04.30-18.05.29:115][169]LogAIModule: Creating AISystem for world NewMap
+[2020.04.30-18.05.29:115][169]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2020.04.30-18.05.29:115][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002273s)
+[2020.04.30-18.05.29:161][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-18.05.29:162][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-18.05.29:162][169]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-18.05.29:162][169]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: Name: Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: Channel Order:
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-18.05.29:178][169]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-18.05.29:184][169]LogAudioMixer: Display: Using Audio Device Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-18.05.29:185][169]LogInit: FAudioDevice initialized.
+[2020.04.30-18.05.29:191][169]LogLoad: Game class is 'MyFlockingGameModeBaseBP_C'
+[2020.04.30-18.05.29:191][169]LogActor: Warning: MyFlockingGameModeBaseBP_C /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.05.29:192][169]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.04.30-14.05.29
+[2020.04.30-18.05.29:192][169]LogWorld: Bringing up level for play took: 0.000296
+[2020.04.30-18.05.29:192][169]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: GAMEMODE BEGINPLAY()
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: Manager initialized
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:211][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:212][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:212][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:212][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:212][169]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.29:221][169]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.527
+[2020.04.30-18.05.35:798][871]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.35:798][871]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.35:799][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-18.05.35:799][871]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2020.04.30-18.05.35:799][871]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.35:799][871]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-18.05.35:799][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-18.05.35:805][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-18.05.35:808][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-18.05.35:832][871]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.35:834][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-18.05.35:845][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.04.30-18.05.35:900][875]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.30-18.05.36:867][975]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-18.05.36:876][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-18.05.36:877][975]PIE: New page: PIE session: NewMap (Apr 30, 2020, 10:05:36 AM)
+[2020.04.30-18.05.36:877][975]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2020.04.30-18.05.36:877][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001393s)
+[2020.04.30-18.05.36:878][975]LogAIModule: Creating AISystem for world NewMap
+[2020.04.30-18.05.36:878][975]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2020.04.30-18.05.36:878][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002194s)
+[2020.04.30-18.05.36:901][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-18.05.36:902][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-18.05.36:902][975]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-18.05.36:902][975]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: Name: Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: Channel Order:
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-18.05.36:917][975]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-18.05.36:922][975]LogAudioMixer: Display: Using Audio Device Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-18.05.36:924][975]LogInit: FAudioDevice initialized.
+[2020.04.30-18.05.36:933][975]LogLoad: Game class is 'MyFlockingGameModeBaseBP_C'
+[2020.04.30-18.05.36:933][975]LogActor: Warning: MyFlockingGameModeBaseBP_C /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.05.36:934][975]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.04.30-14.05.36
+[2020.04.30-18.05.36:934][975]LogWorld: Bringing up level for play took: 0.000319
+[2020.04.30-18.05.36:934][975]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.30-18.05.36:935][975]LogTemp: Warning: GAMEMODE BEGINPLAY()
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Manager initialized
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.36:936][975]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.242
+[2020.04.30-18.05.38:346][ 89]Cmd: SELECT NONE
+[2020.04.30-18.05.40:930][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.40:930][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.40:931][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-18.05.40:931][345]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2020.04.30-18.05.40:931][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.40:931][345]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-18.05.40:931][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-18.05.40:955][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-18.05.40:958][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-18.05.40:981][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.40:983][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-18.05.40:986][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.30-18.05.41:030][348]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.30-18.05.41:544][392]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-18.05.41:553][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-18.05.41:553][392]PIE: New page: PIE session: NewMap (Apr 30, 2020, 10:05:41 AM)
+[2020.04.30-18.05.41:553][392]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2020.04.30-18.05.41:554][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001593s)
+[2020.04.30-18.05.41:555][392]LogAIModule: Creating AISystem for world NewMap
+[2020.04.30-18.05.41:555][392]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2020.04.30-18.05.41:555][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002404s)
+[2020.04.30-18.05.41:576][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.04.30-18.05.41:576][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-18.05.41:576][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-18.05.41:576][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-18.05.41:576][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-18.05.41:576][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-18.05.41:576][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-18.05.41:576][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-18.05.41:576][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-18.05.41:577][392]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-18.05.41:577][392]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: Name: Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: Channel Order:
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-18.05.41:591][392]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-18.05.41:597][392]LogAudioMixer: Display: Using Audio Device Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-18.05.41:598][392]LogInit: FAudioDevice initialized.
+[2020.04.30-18.05.41:608][392]LogLoad: Game class is 'MyFlockingGameModeBaseBP_C'
+[2020.04.30-18.05.41:608][392]LogActor: Warning: MyFlockingGameModeBaseBP_C /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-18.05.41:609][392]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.04.30-14.05.41
+[2020.04.30-18.05.41:609][392]LogWorld: Bringing up level for play took: 0.000321
+[2020.04.30-18.05.41:609][392]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: GAMEMODE BEGINPLAY()
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: Manager initialized
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:611][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:612][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:612][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:612][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:612][392]LogTemp: Warning: Agent initialized.
+[2020.04.30-18.05.41:612][392]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.918
+[2020.04.30-18.05.46:935][879]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.46:935][879]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.46:936][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-18.05.46:936][879]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2020.04.30-18.05.46:936][879]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.46:936][879]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-18.05.46:936][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-18.05.46:959][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-18.05.46:963][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-18.05.46:985][879]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-18.05.46:987][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-18.05.46:990][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.30-18.05.47:042][885]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.30-19.50.32:452][ 68]Candidate modules for hot reload:
+[2020.04.30-19.50.32:452][ 68]  Flocking
+[2020.04.30-19.50.32:453][ 68]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,3890 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-19.50.32:550][ 68]Warning: Starting HotReload took  0.1s.
+[2020.04.30-19.50.39:535][148]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 11:50:39 AM
+[2020.04.30-19.50.39:536][148]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-19.50.39:536][148]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-19.50.39:536][148]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-19.50.39:536][148]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-19.50.39:536][148]CompilerResultsLog:   [2/4] UE4Editor-Flocking-3890.lib
+[2020.04.30-19.50.39:536][148]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3890.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3890.exp
+[2020.04.30-19.50.39:536][148]CompilerResultsLog:   [3/4] UE4Editor-Flocking-3890.dll
+[2020.04.30-19.50.39:536][148]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3890.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-3890.suppressed.exp
+[2020.04.30-19.50.39:536][148]CompilerResultsLog:   [4/4] FlockingEditor.target
+[2020.04.30-19.50.39:536][148]CompilerResultsLog: Total time in Parallel executor: 2.81 seconds
+[2020.04.30-19.50.39:536][148]CompilerResultsLog: Total execution time: 6.59 seconds
+[2020.04.30-19.50.39:536][148]LogMainFrame: MainFrame: Module compiling took 7.100 seconds
+[2020.04.30-19.50.39:624][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.04.30-19.50.39:662][148]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0016 seconds. Added 3 classes and 2 folders.
+[2020.04.30-19.50.39:666][148]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-19.50.39:752][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.30-19.50.39:782][148]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-19.50.39:782][148]Display: HotReload took  7.3s.
+[2020.04.30-19.50.46:253][167]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-19.50.46:265][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-19.50.46:265][167]PIE: New page: PIE session: NewMap (Apr 30, 2020, 11:50:46 AM)
+[2020.04.30-19.50.46:265][167]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2020.04.30-19.50.46:269][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003860s)
+[2020.04.30-19.50.46:270][167]LogAIModule: Creating AISystem for world NewMap
+[2020.04.30-19.50.46:271][167]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2020.04.30-19.50.46:271][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.005609s)
+[2020.04.30-19.50.46:351][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.30-19.50.46:352][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.30-19.50.46:352][167]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.30-19.50.46:352][167]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: Name: Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: Is Default: Yes
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: Channel Order:
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.30-19.50.46:369][167]LogAudioMixer: Display: 1: FrontRight
+[2020.04.30-19.50.46:377][167]LogAudioMixer: Display: Using Audio Device Dell S2417DG (NVIDIA High Definition Audio)
+[2020.04.30-19.50.46:383][167]LogInit: FAudioDevice initialized.
+[2020.04.30-19.50.46:393][167]LogLoad: Game class is 'MyFlockingGameModeBaseBP_C'
+[2020.04.30-19.50.46:393][167]LogActor: Warning: MyFlockingGameModeBaseBP_C /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.04.30-19.50.46:394][167]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.04.30-15.50.46
+[2020.04.30-19.50.46:394][167]LogWorld: Bringing up level for play took: 0.000337
+[2020.04.30-19.50.46:394][167]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: GAMEMODE BEGINPLAY()
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Manager initialized
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]LogTemp: Warning: Agent initialized.
+[2020.04.30-19.50.46:397][167]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.297
+[2020.04.30-19.50.53:362][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-19.50.53:362][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-19.50.53:363][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-19.50.53:363][862]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2020.04.30-19.50.53:363][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-19.50.53:363][862]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.30-19.50.53:363][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-19.50.53:384][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.30-19.50.53:391][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.30-19.50.53:419][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.30-19.50.53:422][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.30-19.50.53:459][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.04.30-19.50.53:486][863]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.30-20.11.45:597][963]Candidate modules for hot reload:
+[2020.04.30-20.11.45:597][963]  Flocking
+[2020.04.30-20.11.45:597][963]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,1303 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.11.45:601][963]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.13.50:998][378]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:13:50 PM
+[2020.04.30-20.13.50:999][378]CompilerResultsLog: Parsing headers for FlockingEditor
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Flocking\Flocking.uproject" "E:\Unreal Projects\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.04.30-20.13.50:999][378]CompilerResultsLog: Reflection code generated for FlockingEditor in 30.3987547 seconds
+[2020.04.30-20.13.50:999][378]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.13.50:999][378]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.13.50:999][378]CompilerResultsLog: Building 7 actions with 8 processes...
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:   [1/7] FlockingManager.cpp
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(35) : error C2761: 'FVector UFlockingManager::rule1(void)': redeclaration of member is not allowed
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(36) : error C2761: 'FVector UFlockingManager::rule2(void)': redeclaration of member is not allowed
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(37) : error C2761: 'FVector UFlockingManager::rule3(void)': redeclaration of member is not allowed
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:   [2/7] FlockingGameModeBase.cpp
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:   [3/7] FlockingManager.gen.cpp
+[2020.04.30-20.13.50:999][378]CompilerResultsLog:   [4/7] FlockingGameModeBase.gen.cpp
+[2020.04.30-20.13.50:999][378]LogMainFrame: MainFrame: Module compiling took 125.425 seconds
+[2020.04.30-20.13.50:999][378]Warning: HotReload failed, recompile failed
+[2020.04.30-20.14.10:500][775]Candidate modules for hot reload:
+[2020.04.30-20.14.10:500][775]  Flocking
+[2020.04.30-20.14.10:500][775]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,3335 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.14.10:503][775]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.14.13:062][809]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:14:13 PM
+[2020.04.30-20.14.13:062][809]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.14.13:062][809]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.14.13:062][809]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.14.13:062][809]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.14.13:062][809]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(41) : error C2761: 'FVector UFlockingManager::rule1(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.13:062][809]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(42) : error C2761: 'FVector UFlockingManager::rule2(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.13:062][809]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(43) : error C2761: 'FVector UFlockingManager::rule3(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.13:062][809]LogMainFrame: MainFrame: Module compiling took 2.591 seconds
+[2020.04.30-20.14.13:062][809]Warning: HotReload failed, recompile failed
+[2020.04.30-20.14.35:469][224]Candidate modules for hot reload:
+[2020.04.30-20.14.35:469][224]  Flocking
+[2020.04.30-20.14.35:470][224]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,1204 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.14.35:472][224]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.14.37:284][281]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:14:37 PM
+[2020.04.30-20.14.37:284][281]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.14.37:284][281]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.14.37:284][281]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.14.37:284][281]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.14.37:284][281]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(41) : error C2761: 'FVector UFlockingManager::rule1(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.37:284][281]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(42) : error C2761: 'FVector UFlockingManager::rule2(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.37:284][281]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(43) : error C2761: 'FVector UFlockingManager::rule3(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.37:284][281]LogMainFrame: MainFrame: Module compiling took 1.837 seconds
+[2020.04.30-20.14.37:284][281]Warning: HotReload failed, recompile failed
+[2020.04.30-20.14.57:070][523]Candidate modules for hot reload:
+[2020.04.30-20.14.57:070][523]  Flocking
+[2020.04.30-20.14.57:070][523]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,9987 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.14.57:074][523]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.14.59:074][574]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:14:59 PM
+[2020.04.30-20.14.59:074][574]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.14.59:074][574]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.14.59:074][574]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.14.59:074][574]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.14.59:074][574]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(41) : error C2761: 'FVector UFlockingManager::rule1(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.59:074][574]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(42) : error C2761: 'FVector UFlockingManager::rule2(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.59:074][574]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(43) : error C2761: 'FVector UFlockingManager::rule3(void)': redeclaration of member is not allowed
+[2020.04.30-20.14.59:075][574]LogMainFrame: MainFrame: Module compiling took 2.027 seconds
+[2020.04.30-20.14.59:075][574]Warning: HotReload failed, recompile failed
+[2020.04.30-20.15.16:772][722]Candidate modules for hot reload:
+[2020.04.30-20.15.16:772][722]  Flocking
+[2020.04.30-20.15.16:772][722]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,3038 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.15.16:775][722]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.15.22:904][745]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:15:22 PM
+[2020.04.30-20.15.22:905][745]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.15.22:905][745]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.15.22:905][745]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.15.22:905][745]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.15.22:905][745]CompilerResultsLog:    e:\unreal projects\flocking\source\flocking\flockingmanager.cpp(43)  : error C4716: 'UFlockingManager::rule3': must return a value
+[2020.04.30-20.15.22:905][745]CompilerResultsLog:    e:\unreal projects\flocking\source\flocking\flockingmanager.cpp(41)  : error C4716: 'UFlockingManager::rule1': must return a value
+[2020.04.30-20.15.22:905][745]CompilerResultsLog:    e:\unreal projects\flocking\source\flocking\flockingmanager.cpp(42)  : error C4716: 'UFlockingManager::rule2': must return a value
+[2020.04.30-20.15.22:905][745]LogMainFrame: MainFrame: Module compiling took 6.155 seconds
+[2020.04.30-20.15.22:905][745]Warning: HotReload failed, recompile failed
+[2020.04.30-20.15.44:251][888]Candidate modules for hot reload:
+[2020.04.30-20.15.44:252][888]  Flocking
+[2020.04.30-20.15.44:252][888]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,8981 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.15.44:254][888]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.15.48:251][901]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:15:48 PM
+[2020.04.30-20.15.48:251][901]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.15.48:251][901]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.15.48:251][901]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.15.48:251][901]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.15.48:251][901]CompilerResultsLog:    e:\unreal projects\flocking\source\flocking\flockingmanager.cpp(44)  : error C4716: 'UFlockingManager::rule1': must return a value
+[2020.04.30-20.15.48:251][901]CompilerResultsLog:    e:\unreal projects\flocking\source\flocking\flockingmanager.cpp(47)  : error C4716: 'UFlockingManager::rule2': must return a value
+[2020.04.30-20.15.48:251][901]CompilerResultsLog:    e:\unreal projects\flocking\source\flocking\flockingmanager.cpp(50)  : error C4716: 'UFlockingManager::rule3': must return a value
+[2020.04.30-20.15.48:251][901]LogMainFrame: MainFrame: Module compiling took 4.030 seconds
+[2020.04.30-20.15.48:251][901]Warning: HotReload failed, recompile failed
+[2020.04.30-20.16.04:988][106]Candidate modules for hot reload:
+[2020.04.30-20.16.04:988][106]  Flocking
+[2020.04.30-20.16.04:988][106]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,5705 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.16.04:991][106]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.16.08:455][157]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:16:08 PM
+[2020.04.30-20.16.08:455][157]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.16.08:455][157]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.16.08:457][157]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.16.08:457][157]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.16.08:457][157]CompilerResultsLog:   [2/4] UE4Editor-Flocking-5705.lib
+[2020.04.30-20.16.08:457][157]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5705.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5705.exp
+[2020.04.30-20.16.08:457][157]CompilerResultsLog:   [3/4] UE4Editor-Flocking-5705.dll
+[2020.04.30-20.16.08:457][157]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5705.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-5705.suppressed.exp
+[2020.04.30-20.16.08:457][157]CompilerResultsLog:   [4/4] FlockingEditor.target
+[2020.04.30-20.16.08:457][157]CompilerResultsLog: Total time in Parallel executor: 2.12 seconds
+[2020.04.30-20.16.08:457][157]CompilerResultsLog: Total execution time: 3.22 seconds
+[2020.04.30-20.16.08:457][157]LogMainFrame: MainFrame: Module compiling took 3.472 seconds
+[2020.04.30-20.16.08:486][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.30-20.16.08:550][157]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2020.04.30-20.16.08:556][157]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-20.16.08:637][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.04.30-20.16.08:668][157]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-20.16.08:668][157]Display: HotReload took  3.7s.
+[2020.04.30-20.20.24:512][ 79]Candidate modules for hot reload:
+[2020.04.30-20.20.24:512][ 79]  Flocking
+[2020.04.30-20.20.24:512][ 79]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,5475 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.20.24:516][ 79]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.20.26:464][233]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:20:26 PM
+[2020.04.30-20.20.26:464][233]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.20.26:464][233]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.20.26:464][233]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.20.26:464][233]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.20.26:464][233]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(36) : error C2660: 'UFlockingManager::rule1': function does not take 1 arguments
+[2020.04.30-20.20.26:464][233]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(25): note: see declaration of 'UFlockingManager::rule1'
+[2020.04.30-20.20.26:465][233]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(37) : error C2660: 'UFlockingManager::rule2': function does not take 1 arguments
+[2020.04.30-20.20.26:465][233]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(26): note: see declaration of 'UFlockingManager::rule2'
+[2020.04.30-20.20.26:465][233]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(38) : error C2660: 'UFlockingManager::rule3': function does not take 1 arguments
+[2020.04.30-20.20.26:465][233]CompilerResultsLog:   e:\unreal projects\flocking\source\flocking\FlockingManager.h(27): note: see declaration of 'UFlockingManager::rule3'
+[2020.04.30-20.20.26:465][233]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(45) : error C2065: 'agent': undeclared identifier
+[2020.04.30-20.20.26:465][233]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(45) : error C2065: 'a': undeclared identifier
+[2020.04.30-20.20.26:465][233]LogMainFrame: MainFrame: Module compiling took 1.957 seconds
+[2020.04.30-20.20.26:465][233]Warning: HotReload failed, recompile failed
+[2020.04.30-20.20.54:082][692]Candidate modules for hot reload:
+[2020.04.30-20.20.54:082][692]  Flocking
+[2020.04.30-20.20.54:082][692]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,9427 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.20.54:086][692]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.21.05:747][996]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:21:05 PM
+[2020.04.30-20.21.05:747][996]CompilerResultsLog: Parsing headers for FlockingEditor
+[2020.04.30-20.21.05:747][996]CompilerResultsLog:   Running UnrealHeaderTool "E:\Unreal Projects\Flocking\Flocking.uproject" "E:\Unreal Projects\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.04.30-20.21.05:747][996]CompilerResultsLog: Reflection code generated for FlockingEditor in 6.8718162 seconds
+[2020.04.30-20.21.05:747][996]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.21.05:747][996]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.21.05:747][996]CompilerResultsLog: Building 6 actions with 8 processes...
+[2020.04.30-20.21.05:747][996]CompilerResultsLog:   [1/6] FlockingManager.cpp
+[2020.04.30-20.21.05:747][996]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(45) : error C2065: 'agent': undeclared identifier
+[2020.04.30-20.21.05:747][996]CompilerResultsLog:   [2/6] FlockingGameModeBase.cpp
+[2020.04.30-20.21.05:747][996]CompilerResultsLog:   [3/6] FlockingManager.gen.cpp
+[2020.04.30-20.21.05:747][996]LogMainFrame: MainFrame: Module compiling took 11.671 seconds
+[2020.04.30-20.21.05:747][996]Warning: HotReload failed, recompile failed
+[2020.04.30-20.21.55:757][444]Candidate modules for hot reload:
+[2020.04.30-20.21.55:757][444]  Flocking
+[2020.04.30-20.21.55:758][444]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,7064 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.21.55:761][444]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.21.57:913][507]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:21:57 PM
+[2020.04.30-20.21.57:913][507]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.21.57:913][507]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.21.57:913][507]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.21.57:913][507]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.21.57:913][507]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(36) : error C2065: 'agent': undeclared identifier
+[2020.04.30-20.21.57:913][507]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(37) : error C2065: 'agent': undeclared identifier
+[2020.04.30-20.21.57:913][507]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(38) : error C2065: 'agent': undeclared identifier
+[2020.04.30-20.21.57:913][507]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(45) : error C2065: 'agent': undeclared identifier
+[2020.04.30-20.21.57:913][507]LogMainFrame: MainFrame: Module compiling took 2.160 seconds
+[2020.04.30-20.21.57:913][507]Warning: HotReload failed, recompile failed
+[2020.04.30-20.25.25:092][736]Candidate modules for hot reload:
+[2020.04.30-20.25.25:092][736]  Flocking
+[2020.04.30-20.25.25:092][736]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,2402 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.25.25:096][736]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.25.27:474][745]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:25:27 PM
+[2020.04.30-20.25.27:474][745]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.25.27:474][745]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.25.27:474][745]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.25.27:474][745]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.25.27:474][745]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(33) : error C4101: 'a': unreferenced local variable
+[2020.04.30-20.25.27:474][745]CompilerResultsLog:    E:\Unreal Projects\Flocking\Source\Flocking\FlockingManager.cpp(45) : error C2065: 'agent': undeclared identifier
+[2020.04.30-20.25.27:474][745]LogMainFrame: MainFrame: Module compiling took 2.404 seconds
+[2020.04.30-20.25.27:474][745]Warning: HotReload failed, recompile failed
+[2020.04.30-20.26.25:210][832]Candidate modules for hot reload:
+[2020.04.30-20.26.25:211][832]  Flocking
+[2020.04.30-20.26.25:211][832]Launching UnrealBuildTool... [E:/UE4/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Flocking,8809 Win64 Development -TargetType=Editor -Project="E:/Unreal Projects/Flocking/Flocking.uproject" "E:/Unreal Projects/Flocking/Flocking.uproject"  -IgnoreJunk]
+[2020.04.30-20.26.25:214][832]Warning: Starting HotReload took  0.0s.
+[2020.04.30-20.26.31:978][995]CompilerResultsLog: New page: Compilation - Apr 30, 2020, 12:26:31 PM
+[2020.04.30-20.26.31:978][995]CompilerResultsLog: Building FlockingEditor...
+[2020.04.30-20.26.31:978][995]CompilerResultsLog: Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.30-20.26.31:978][995]CompilerResultsLog: Building 4 actions with 8 processes...
+[2020.04.30-20.26.31:978][995]CompilerResultsLog:   [1/4] FlockingManager.cpp
+[2020.04.30-20.26.31:978][995]CompilerResultsLog:   [2/4] UE4Editor-Flocking-8809.lib
+[2020.04.30-20.26.31:978][995]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8809.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8809.exp
+[2020.04.30-20.26.31:978][995]CompilerResultsLog:   [3/4] UE4Editor-Flocking-8809.dll
+[2020.04.30-20.26.31:978][995]CompilerResultsLog:      Creating library E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8809.suppressed.lib and object E:\Unreal Projects\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-8809.suppressed.exp
+[2020.04.30-20.26.31:978][995]CompilerResultsLog:   [4/4] FlockingEditor.target
+[2020.04.30-20.26.31:978][995]CompilerResultsLog: Total time in Parallel executor: 5.32 seconds
+[2020.04.30-20.26.31:978][995]CompilerResultsLog: Total execution time: 6.53 seconds
+[2020.04.30-20.26.31:978][995]LogMainFrame: MainFrame: Module compiling took 6.792 seconds
+[2020.04.30-20.26.32:066][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.04.30-20.26.32:098][995]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0007 seconds. Added 3 classes and 2 folders.
+[2020.04.30-20.26.32:106][995]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.04.30-20.26.32:246][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.30-20.26.32:265][995]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 3020 classes and 722 folders.
+[2020.04.30-20.26.32:265][995]Display: HotReload took  7.1s.
+[2020.04.30-20.26.34:897][121]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.30-20.26.34:912][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.30-20.26.34:912][121]PIE: New page: PIE session: NewMap (Apr 30, 2020, 12:26:34 PM)
+[2020.04.30-20.26.34:912][121]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2020.04.30-20.26.34:925][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012882s)

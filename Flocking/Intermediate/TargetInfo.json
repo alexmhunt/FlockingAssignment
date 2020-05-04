@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Flocking",
+			"Path": "E:\\Unreal Projects\\Flocking\\Source\\Flocking.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FlockingEditor",
+			"Path": "E:\\Unreal Projects\\Flocking\\Source\\FlockingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

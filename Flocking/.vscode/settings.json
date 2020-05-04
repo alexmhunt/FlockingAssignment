@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"E:/Unreal Projects/Flocking/.vscode": true,
+		"E:/Unreal Projects/Flocking/Content": true,
+		"E:/Unreal Projects/Flocking/Intermediate": true
+	}
+}
