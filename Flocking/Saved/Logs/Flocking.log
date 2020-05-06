@@ -7164,3 +7164,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.06-18.51.05:141][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2020.05.06-18.51.05:211][870]LogPlayLevel: Display: Destroying online subsystem :Context_22
 [2020.05.06-19.01.32:005][632]LogActor: Warning: MyFlockingGameModeBaseBP_C /Engine/Transient.World_2:PersistentLevel.MyFlockingGameModeBaseBP_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.05.06-20.17.15:287][ 91]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/MainMenu.MainMenu
+[2020.05.06-20.17.16:014][ 91]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2020.05.06-20.17.17:475][ 91]LogSlate: Took 0.013393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.06-20.17.49:165][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.05.06-20.17.49:174][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.081
+[2020.05.06-20.17.49:175][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/MainMenu] ([1] browsable assets)...
+[2020.05.06-20.17.49:175][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/MainMenu]
+[2020.05.06-20.17.49:175][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenu" FILE="../../../../../../Unreal Projects/FlockingAssignment/Flocking/Saved/Autosaves/Game/Widgets/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.06-20.17.49:187][750]LogSavePackage: Moving '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Saved/MainMenu_Auto1FB74CB6347FD321A029DFE9E7799AB79.tmp' to '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Saved/Autosaves/Game/Widgets/MainMenu_Auto1.uasset'
+[2020.05.06-20.17.49:187][750]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.05.06-20.18.15:924][288]LogSlate: Window 'MainMenu' being destroyed
+[2020.05.06-20.18.15:950][288]LogSlate: Window 'MainMenu' being destroyed
+[2020.05.06-20.18.15:988][288]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-20.18.15:988][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-20.18.16:003][288]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-20.18.16:003][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-20.18.30:956][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.06-20.18.30:972][627]LogMetaData: Removing '/Game/Widgets/Controls.SKEL_Controls_C' ref from Metadata '/Game/Widgets/MainMenu.PackageMetaData'
+[2020.05.06-20.18.30:972][627]LogMetaData: Removing '/Game/Widgets/Controls.Controls_C' ref from Metadata '/Game/Widgets/MainMenu.PackageMetaData'
+[2020.05.06-20.18.30:972][627]LogMetaData: Removing '/Game/Widgets/Controls.Controls:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/MainMenu.PackageMetaData'
+[2020.05.06-20.18.30:972][627]LogMetaData: Removing '/Game/Widgets/Controls.Controls:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/MainMenu.PackageMetaData'
+[2020.05.06-20.18.30:972][627]LogMetaData: Removing '/Game/Widgets/Controls.Controls:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/MainMenu.PackageMetaData'
+[2020.05.06-20.18.31:026][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Controls" FILE="../../../../../../Unreal Projects/FlockingAssignment/Flocking/Content/Widgets/Controls.uasset" SILENT=true
+[2020.05.06-20.18.31:037][627]LogSavePackage: Moving '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Saved/Controls1F4FEE254099D15566B3948DC14132A3.tmp' to '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Content/Widgets/Controls.uasset'
+[2020.05.06-20.18.31:788][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.06-20.18.31:827][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.05.06-20.18.31:851][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.06-20.18.31:878][627]AssetCheck: New page: Asset Save: Controls
+[2020.05.06-20.18.31:878][627]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Controls.Controls
+[2020.05.06-20.18.34:080][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.05.06-20.18.35:208][754]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.06-20.18.35:416][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.05.06-20.18.35:451][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.05.06-20.18.35:477][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.05.06-20.18.35:720][754]SourceControl: rm 'Flocking/Content/Widgets/Controls.uasset'
+[2020.05.06-20.30.11:330][230]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthBar.HealthBar
+[2020.05.06-20.31.10:258][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.06-20.31.45:349][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBar" FILE="../../../../../../Unreal Projects/FlockingAssignment/Flocking/Content/HealthBar.uasset" SILENT=true
+[2020.05.06-20.31.45:361][161]LogSavePackage: Moving '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Saved/HealthBar413B6C8C451365737DF22D8BB4522031.tmp' to '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Content/HealthBar.uasset'
+[2020.05.06-20.31.45:649][161]AssetCheck: New page: Asset Save: HealthBar
+[2020.05.06-20.31.45:649][161]LogContentValidation: Display: Validating WidgetBlueprint /Game/HealthBar.HealthBar
+[2020.05.06-20.32.22:286][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBar" FILE="../../../../../../Unreal Projects/FlockingAssignment/Flocking/Content/HealthBar.uasset" SILENT=true
+[2020.05.06-20.32.22:306][300]LogSavePackage: Moving '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Saved/HealthBar764D12BB4F3E1E388402E4A7F82D3F73.tmp' to '../../../../../../Unreal Projects/FlockingAssignment/Flocking/Content/HealthBar.uasset'
+[2020.05.06-20.32.22:322][300]AssetCheck: New page: Asset Save: HealthBar
+[2020.05.06-20.32.22:322][300]LogContentValidation: Display: Validating WidgetBlueprint /Game/HealthBar.HealthBar
+[2020.05.06-20.32.22:813][324]BlueprintLog: New page: Compile HealthBar
+[2020.05.06-20.32.22:983][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
