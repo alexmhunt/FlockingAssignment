@@ -4,9 +4,9 @@
 #include "FlockingManager.h"
 #include "Agent.h"
 #include "GenericPlatform/GenericPlatformMath.h"
+#include "Kismet/GameplayStatics.h"
 #define AGENT_COUNT 10
-#define MAX_ACCEL 10
-#define MIN_ACCEL -5
+#define MAX_ACCEL 5
 #define RANGE 500
 #define AVOID_RANGE 100
 
@@ -47,40 +47,6 @@ void UFlockingManager::Flock() {
     //int inRule1Range = 0, inRule2Range = 0, inRule3Range = 0;
 
     for(auto& a: Agents){
-        /*
-        for(auto& agent: Agents){
-            if(agent != a){
-                float distsquared = FVector::DistSquared(a->GetActorLocation(), agent->GetActorLocation());
-
-                // calculate 3 rules
-
-                // rule 1
-                // get pos of nearby boids
-                if(distsquared < RANGE){
-                    v1 += agent->GetActorLocation();
-                    inRule1Range++;
-                }
-
-                if(distsquared < AVOID_RANGE){
-                    v2 += a->GetActorLocation() - agent->GetActorLocation();
-                }
-
-                if(distsquared < RANGE){
-                    v3 += agent->Velocity;
-                }
-
-            }
-        }
-        if(inRule1Range)
-            v1 /= inRule1Range;
-
-        v1 = (v1 - a->GetActorLocation() / 100);
-
-        if(inRule3Range)
-            v1 /= inRule3Range;
-
-        v3 = v3 / 8;*/
-
         // Apply the 3 rules of flocking to the current boid.
         v1 = rule1(a);
         v2 = rule2(a);
@@ -88,9 +54,12 @@ void UFlockingManager::Flock() {
 
         
         // Calculate the current boid's velocity based on the 3 rules.
-        vel = a->Velocity + v1 + v2 + v3;
+        // Also, make the boids move towards the player.
+        vel = a->Velocity + v1 + v2 + v3 + tend_to_player(a);
         // Limit the maximum velocity so that our boids aren't too fast
         a->Velocity = vel.GetClampedToMaxSize(MAX_ACCEL);
+
+        
     }
 
 }
@@ -98,17 +67,21 @@ void UFlockingManager::Flock() {
 // Rule 1: Boids try to fly towards the center of mass of neighboring boids.
 FVector UFlockingManager::rule1(AAgent *a){
     FVector v;
+
+    // Get all the other boids and add their locations to a vector
     for(auto& agent: Agents){
         if(agent != a){
             v += agent->GetActorLocation();
         }
     }
 
+    // Divide by the number of other boids to get
+    // the average position of the entire flock.
     v /= (AGENT_COUNT - 1);
     v -= a->GetActorLocation();
 
 
-    return v / 100;
+    return v / 100; // boid moves 1% towards the average position.
 
 };
 
@@ -116,18 +89,19 @@ FVector UFlockingManager::rule1(AAgent *a){
 FVector UFlockingManager::rule2(AAgent *a){
     FVector v = FVector(0.f); // initialize vector to 0
 
+    // For each other boid in the flock...
     for(auto& agent: Agents){
         if(agent != a){
+            // Get distance between this boid and the other boid
             float dist = FVector::Distance(a->GetActorLocation(), agent->GetActorLocation());
-            float abs = FGenericPlatformMath::Abs(dist); 
-            //UE_LOG(LogTemp, Warning, TEXT("Dist between %s and %s = %10.6f"), TCHAR_TO_ANSI(*AActor::GetDebugName(a)), TCHAR_TO_ANSI(*AActor::GetDebugName(agent)), abs);
-            if(abs < 100.f){
+            float abs = FGenericPlatformMath::Abs(dist); // absolute value
+            if(abs < 100.f){ // If distance less than 100,
+                // Make this boid tend away from the other boid.
                 v = v - (agent->GetActorLocation() - a->GetActorLocation());
             }
         }
     }
 
-    //v /= (AGENT_COUNT - 1);
 
     return v;
 };
@@ -142,15 +116,17 @@ FVector UFlockingManager::rule3(AAgent *a){
         }
     }
 
-    //v /= (AGENT_COUNT - 1);
-
     return (v - a->Velocity) / 8;
 };
 
-void UFlockingManager::limitVelocity(AAgent *a){
-    int vlim = 50;
-    FVector v;
+// Make boid fly towards the player.
+FVector UFlockingManager::tend_to_player(AAgent *a){
+    FVector playerloc = FVector(0.f);
 
-    if(a->Velocity.GetAbs().Size() > vlim)
-        a->Velocity = (a->Velocity / a->Velocity.GetAbs()) * vlim;
+    APawn* player = UGameplayStatics::GetPlayerController(a, 0)->GetPawn();
+
+    if(player) // if pointer to player isn't null
+        playerloc = player->GetActorLocation();
+
+    return (playerloc - a->GetActorLocation()) / 100;
 }

@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Flocking-2421.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Agent.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Flocking.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\FlockingGameModeBase.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\FlockingManager.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\PlayerPawn.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Agent.gen.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Flocking.init.gen.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\FlockingGameModeBase.gen.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\FlockingManager.gen.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\PlayerPawn.gen.cpp.obj"
+"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\Default.rc2.res"
+/OUT:"E:\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\UE4Editor\Development\Flocking\UE4Editor-Flocking-2421.lib"
+/INCLUDE:IMPLEMENT_MODULE_Flocking

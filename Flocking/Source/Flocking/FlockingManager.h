@@ -27,6 +27,7 @@ private:
 	FVector rule1(AAgent *a);
 	FVector rule2(AAgent *a);
 	FVector rule3(AAgent *a);
+	FVector tend_to_player(AAgent *a);
 
 	void limitVelocity(AAgent *a);
 };

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\Unreal Projects\\Flocking\\Source\\Flocking\\Flocking.Build.cs",
-		"E:\\Unreal Projects\\Flocking\\Source\\Flocking.Target.cs",
-		"E:\\Unreal Projects\\Flocking\\Source\\FlockingEditor.Target.cs"
+		"E:\\Unreal Projects\\FlockingAssignment\\Flocking\\Source\\Flocking\\Flocking.Build.cs",
+		"E:\\Unreal Projects\\FlockingAssignment\\Flocking\\Source\\Flocking.Target.cs",
+		"E:\\Unreal Projects\\FlockingAssignment\\Flocking\\Source\\FlockingEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }
