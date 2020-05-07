@@ -5,7 +5,8 @@ Play as a brightly-colored cube and try to avoid the flock of murderous, cube-fl
 
 Controls: WASD to move around, and look around using the mouse. If a Boid touches you, you lose some health. If your health hits zero, the game ends.
 
-Developed by Alex Hunt
+Developed by Alex Hunt.
+
 All Boids algorithm code implemented in C++. Health, all HUD elements, and collision implemented in Blueprints.
 
 Based off Conrad Parker's Boids pseudocode (http://www.kfish.org/boids/pseudocode.html).
